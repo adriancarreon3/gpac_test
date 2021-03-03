@@ -1,0 +1,17 @@
+
+.market__titleRow{
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 4rem;
+
+    display: flex;
+    justify-content: space-between;
+
+    .market__circleIcon{
+        margin-top: 2.5px;
+    }
+}
+
+.market__title{
+    margin-left: 15px;
+}

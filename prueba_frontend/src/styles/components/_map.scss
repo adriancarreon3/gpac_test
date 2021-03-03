@@ -1,0 +1,13 @@
+
+// CHANGE POPUP ON MAPBOX
+.map__popup .mapboxgl-popup-content {
+    background-color: #222A39;
+    box-shadow: 0px 3px 6px #00000060;
+    font-size: 14px;
+}
+
+.map__popup .mapboxgl-popup-tip {
+    border-top-color: #222A39;
+    border-bottom-color: #222A39;
+    box-shadow: 0px 3px 6px #00000060;
+}
