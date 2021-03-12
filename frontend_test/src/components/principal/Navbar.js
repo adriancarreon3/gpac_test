@@ -57,8 +57,6 @@ export const Navbar = () => {
                                     }}
                                 >
                                     <MenuItem value={10}>All Entities</MenuItem>
-                                    <MenuItem value={20}>Twenty</MenuItem>
-                                    <MenuItem value={30}>Thirty</MenuItem>
                                 </Select>
                                 <Select
                                     labelId="demo-simple-select-label"
@@ -72,8 +70,6 @@ export const Navbar = () => {
                                     }}
                                 >
                                     <MenuItem value={10}>Industry</MenuItem>
-                                    <MenuItem value={20}>Twenty</MenuItem>
-                                    <MenuItem value={30}>Thirty</MenuItem>
                                 </Select>
 
                                 <Select
@@ -89,8 +85,6 @@ export const Navbar = () => {
                                     }}
                                 >
                                     <MenuItem value={10}>Location</MenuItem>
-                                    <MenuItem value={20}>Twenty</MenuItem>
-                                    <MenuItem value={30}>Thirty</MenuItem>
                                 </Select>
                                 
                                 <IconButton 
